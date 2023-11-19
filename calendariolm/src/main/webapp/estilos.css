@@ -1,0 +1,105 @@
+@charset "ISO-8859-1";
+body {
+    background-color: cornsilk;
+}
+
+table{
+	border-collapse: collapse;
+}
+.centrado{
+	text-align: center;
+}
+
+.naranja{
+	background-color: darkorange;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.amarillo{
+	background-color: yellow;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.amarilloblanco {
+	background-color: lightgoldenrodyellow;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blanco {
+	background-color: white;
+}
+
+.marronnaranja{
+	background-color: rgb(255, 210, 166);
+}
+
+.negro{
+	background-color: black;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blancoentero{
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blancolaterales {
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-spacing: 0;
+}
+
+.marronnaranjabordes {
+	background-color:  rgb(255, 210, 166);;
+	border-right: 1px solid;
+	border-left: 1px solid;
+}
+.po{
+	color:white;
+}
+.amarilloborde {
+	background-color: yellow;
+	border-bottom: 10px;
+	border-left: 10px;
+	border-right: 10px;
+	border-top: 10px;
+}
+.blancoenteroderechaabajo{
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.marronnaranjaabajo{
+	background-color:  rgb(255, 210, 166);;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+}
+
+.bordes{
+	border-bottom: 10px;
+}
